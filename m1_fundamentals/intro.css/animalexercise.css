@@ -1,0 +1,34 @@
+body {
+    text-align: left; 
+    margin: 20px; 
+}
+
+.navigation{
+.login-section
+    display block-size:"0"
+    padding: 10px 20px;
+    margin-bottom: 5px; 
+    color: #007bff; 
+    text-decoration: underline; 
+}
+
+.box-button {
+    margin: 10px 0;
+}
+
+.box {
+    border:1px solid;
+    padding: 10px;
+    cursor: pointer;
+    width: 60px;
+    height: 50px; 
+}
+
+.fish-list {
+    margin-top: 21px;
+}
+
+.fish-item:hover {
+    background-color: #d29494; 
+    cursor: pointer;
+}

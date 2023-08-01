@@ -1,0 +1,19 @@
+div .button-container{
+padding:10px
+
+}
+
+.button-container p{
+display:inline-block;
+margin: right 10px;
+padding:8px 12px;
+background-color:black;
+color: aqua;
+text-decoration:none;
+border: radius 5px;;
+}
+
+.button-container p:last-child{
+margin-right:0;
+
+}
